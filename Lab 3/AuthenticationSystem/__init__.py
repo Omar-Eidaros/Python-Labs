@@ -1,0 +1,8 @@
+from AuthenticationSystem.Registration import register
+from AuthenticationSystem.Login import login
+
+from AuthenticationSystem.ValidationMethods import checkmail
+from AuthenticationSystem.ValidationMethods import checkphone
+from AuthenticationSystem.ValidationMethods import checklogin
+from AuthenticationSystem.ValidationMethods import checkpassword
+from AuthenticationSystem.ValidationMethods import confirmpassword
