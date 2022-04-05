@@ -1,0 +1,7 @@
+From:samir@gmail.com 
+To:omar@yahoo.com
+Subject: Test new Class 
+
+Hi Omar,
+This mail is atest mail to test the new class
+Thanks

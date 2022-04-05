@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1010,
+    "name": "Samir Eidaros",
+    "email": "samir@yahoo.com",
+    "money": 500,
+    "mood": "Happy",
+    "health_rate": 90,
+    "salary": 4990,
+    "carname": "Marcedes",
+    "fuelrate": 100,
+    "distanceToWork": 20
+  }
+]

@@ -1,0 +1,7 @@
+From:Omar@yahoo.com 
+To:Samir@yahoo.com
+Subject: Test Function 
+
+Hi Samir,
+This is test mail no.3
+Thanks
